@@ -12,6 +12,7 @@ function CalcularDescuento (nombreProducto, precioProducto, porcentajeDescuento)
     }
 }
 
+//probar codigo
 console.log(CalcularDescuento("Bocina",100,30));
 console.log(calcularDescuento("Camisa", 50, 20));
 console.log(calcularDescuento("Cartera", -10, -30));
