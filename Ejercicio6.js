@@ -12,7 +12,7 @@ class Producto {
   }
 }
 
-// Creación de al menos 2 objetos
+// Creación de objetos
 const producto1 = new Producto("Cafe", 25, 10);
 const producto2 = new Producto("Computadora", 45, 15);
 
